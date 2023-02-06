@@ -18,7 +18,7 @@ The following **required** functionality is completed:
 The following **optional** features are implemented:
 
 * [x] Search a game via typing
-* [x] Button and the game card glows up when hover over!
+* [x] Buttons and game cards glow up when hover over!
 
 ## Video Walkthrough
 
