@@ -24,7 +24,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='[http://www.giphy.com/gifs/sZlchGpkIseyWohfQj](https://media2.giphy.com/media/sZlchGpkIseyWohfQj/giphy.gif?cid=790b7611c100d2f98ad816187e01b1d04049aa9ab089c45e&rid=giphy.gif&ct=g)' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://media2.giphy.com/media/sZlchGpkIseyWohfQj/giphy.gif?cid=790b7611c100d2f98ad816187e01b1d04049aa9ab089c45e&rid=giphy.gif&ct=g' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with Giphy
