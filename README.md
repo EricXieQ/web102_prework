@@ -1,10 +1,10 @@
-# WEB102 Prework - *Name of App Here*
+# WEB102 Prework - *Sea Monster Crowdfunding gaming*
 
-Submitted by: **Your Name Here**
+Submitted by: **Eric Xie**
 
-**Name of your app** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
+**PreWORK Gaming site** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
-Time spent: **X** hours spent in total
+Time spent: **10** hours spent in total
 
 ## Required Features
 
@@ -24,10 +24,10 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='http://www.giphy.com/gifs/sZlchGpkIseyWohfQj' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='[http://www.giphy.com/gifs/sZlchGpkIseyWohfQj](https://media2.giphy.com/media/sZlchGpkIseyWohfQj/giphy.gif?cid=790b7611c100d2f98ad816187e01b1d04049aa9ab089c45e&rid=giphy.gif&ct=g)' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with giphy
+GIF created with Giphy
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
@@ -41,7 +41,7 @@ The trouble I had encounter while building this up is getting the images to show
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2023] [Eric Xie]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
